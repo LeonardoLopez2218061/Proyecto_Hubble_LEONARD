@@ -3,6 +3,6 @@ Proyecto para entrega de tarea de programación orientada a objetos en Python so
 
 ## Observaciones:
 
-* En la carpeta [images_hubble]() se encuentran los archivos importantes para poder acceder a cada una de las nueve (9) galaxias, y sus respectivas imágenes vista desde los nueve (9) filtros disponibles.
-* El archivo [Principal.ipynb] se encuentra el notebook, donde se crean las diferentes clases, `Galaxia()` y `Principal()`. 
+* En la carpeta [images_hubble](https://github.com/LeonardoLopez2218061/Proyecto_Hubble_LEONARD/tree/main/images_hubble) se encuentran los archivos importantes para poder acceder a cada una de las nueve (9) galaxias, y sus respectivas imágenes vista desde los nueve (9) filtros disponibles.
+* El archivo [Principal.ipynb](https://github.com/LeonardoLopez2218061/Proyecto_Hubble_LEONARD/blob/main/Principal.ipynb) se encuentra el notebook, donde se crean las diferentes clases, `Galaxia()` y `Principal()`. 
 * Se muestran además algunos ejemplos, al crear una instancia e interactuar con el y  sus métodos. 
